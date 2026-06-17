@@ -1,0 +1,769 @@
+Užsakymo_ID,Data,Prekė,Kaina_EUR,Nuolaida_%,Kiekis,Regionas,Grąžinimo_statusas
+ORD-00674,2024-11-10,Nešiojamas kompiuteris,855.97,0,1,Siauliai,atšaukta
+ORD-00573,2024-06-09,Planšetė,648.37,0,3,ALYTUS,Grąžinimo procese
+ORD-00297,02-10-2024,Išorinis diskas,86.85,40,1,KAUNAS,N/A
+ORD-00036,24.02.2024,Ausinės,289.68,0,5,Alytus,-
+ORD-00337,2024-12-04,Kompiuterio pelė,47.41,0,1,Marijampole,Procesoje
+ORD-00423,data,Bluetooth kolonėlė,104.85,40,4,,Dalinis
+ORD-00090,2024-01-25,Klaviatūra,162.77,0,5,Alytus,Dalinis
+ORD-00306,11/11/2024,Išorinis diskas,75.15€,0,1,Marijampolė,Dalinis grąžinimas
+ORD-00225,28/12/2024,Išorinis diskas,118.81,0,2,Siauliai,Dalinis grąžinimas
+ORD-00432,14.08.2024,Nešiojamas kompiuteris,1094.18,0,5,Klaipėda,negrąžinta
+ORD-00450,08/11/2024,Maršrutizatorius,114.12,50,5,Marijampole,grąžinta
+ORD-00002,10/06/2024,Nešiojamas kompiuteris,894.83,10,3,vilnius,
+ORD-00478,08/15/2024,Išorinis diskas,176.08,0,2, ,Dalinis grąžinimas
+ORD-00196,2024/11/07,Klaviatūra,95.69,0,1,Utena,
+ORD-00185,01-05-2024,Ausinės,"52,66",5%,4,UTENA,atšaukta
+ORD-00058,31-07-2024,Kompiuterio pelė,76.45,0,4,Šiauliai,Dalinis grąžinimas
+ORD-00051,02.05.2024,Kompiuterio pelė,75.04,15,5,Alytus,negrąžinta
+ORD-00195,24/03/2024,Kroviklis,35.06,5,5,Alytus,grąžinta
+ORD-00197,07/10/2024,Išmanusis telefonas,492.54,0,5,UTENA,atšaukta
+ORD-00697,2024.02.21,Nešiojamas kompiuteris,677.07,0,3,UTENA,-
+ORD-00541,2024-07-04,Kompiuterio pelė,72.62,50,2,Panevezys,Procesoje
+ORD-00706,2024.04.19,Planšetė,326.68,0%,4,UTENA,N/A
+ORD-00420,19/03/2024,Planšetė,583.52,0,3,ALYTUS,GRĄŽINTA
+ORD-00176,14.01.2024,Nešiojamas kompiuteris,849.2,0,1,Klaipeda,Procesoje
+ORD-00056,2024/07/14,Žaidimų padas,89.93,0,3,Utena,nezinoma
+ORD-00051,02.08.2024,Planšetė,441.82,15,5,PANEVĖŽYS,grąžinta
+ORD-00050,23.06.2024,N/A,69.39,0,3,Siauliai,
+ORD-00651,2024.05.20,Išmanusis laikrodis,476.01,0,2,Marijampole,grąžinta
+ORD-00296,2024/01/22,Bluetooth kolonėlė,120.15,0,1,Kaunas,-
+ORD-00353,2024-09-14,Monitorius,204.22,0,1,Šiauliai,-
+ORD-00364,2024/11/23,Išmanusis laikrodis,389.75,0,5,vilnius,Dalinis
+ORD-00035,11/17/2024,Bluetooth kolonėlė,125.21,0,1,vilnius,?
+ORD-00510,05/19/2024,-,95.66,0,3,Šiauliai,nezinoma
+ORD-00080,2024.04.11,Žaidimų padas,124.33,0,2,vilnius,-
+ORD-00218,2024/09/17,USB kabelis,18.15,35,3,Utena,Procesoje
+ORD-00592,05/28/2024,Kroviklis,47.68,0,3,Šiauliai,GRĄŽINTA
+ORD-00333,2024.08.20,Kroviklis,15.48,0,3,Siauliai,negrąžinta
+ORD-00599,2024.05.28,Išmanusis laikrodis,186.57,0,1,PANEVĖŽYS,Grąžinta
+ORD-00267,2024/02/05,Monitorius,233.51,,1,Marijampolė,Negrąžinta
+ORD-00741,12/08/2024,Monitorius,305.42,0,1,vilnius,Atšaukta
+ORD-00699,2024-09-17,Kroviklis,26.73,0,5,Kaunas,Procesoje
+ORD-00584,2024.11.13,USB kabelis,14.9,0,1,,atšaukta
+ORD-00032,2024/10/30,Žaidimų padas,73.12,35,1,KLAIPĖDA,N/A
+ORD-00414,2024.10.10,Bluetooth kolonėlė,182.86,0,5,Vilnius,N/A
+ORD-00366,2024/07/01,Vaizdo kamera,285.47,0,3,Siauliai,atšaukta
+ORD-00027,2024/07/31,Monitorius,458.43,35,5,Klaipeda,GRĄŽINTA
+ORD-00168,2024-06-26,Nešiojamas kompiuteris,1115.66,35,2,Alytus,negrąžinta
+ORD-00271,2024.03.26,Nešiojamas kompiuteris,1082.53,20,5,KAUNAS,nezinoma
+ORD-00522,28/02/2024,Klaviatūra,149.73,0,2,Marijampole,grąžinta
+ORD-00459,11/09/2024,Išmanusis laikrodis,177.85,0,1,KLAIPĖDA,Procesoje
+ORD-00078,08/18/2024,Išmanusis telefonas,472.42,0,3,KAUNAS,Dalinis
+ORD-00722,2024-09-06,Kompiuterio pelė,72.86,20%,4,kaunas,Grąžinta
+ORD-00220,04/01/2024,Išorinis diskas,123.18,50,5,Šiauliai,N/A
+ORD-00434,01/13/2024,Išmanusis telefonas,426.87,15,1,VILNIUS,Dalinis grąžinimas
+ORD-00743,2024-01-28,Išmanusis telefonas,810.27,0,-1,KAUNAS,GRĄŽINTA
+ORD-00438,2024-04-18,Vaizdo kamera,185.73,0,5,KLAIPĖDA,N/A
+ORD-00214,2024.10.20,Monitorius,€330.55,0%,5,Utena,atšaukta
+ORD-00251,2024-01-03,Vaizdo kamera,295.79,25,5,,-
+ORD-00224,21/01/2024,Žaidimų padas,102.87,0,5,VILNIUS,atšaukta
+ORD-00123,2024.03.30,Kompiuterio pelė,73.15,0,4,Panevėžys,GRĄŽINTA
+ORD-00260,11/28/2024,Kroviklis,26.88,0,3,kaunas,GRĄŽINTA
+ORD-00115,N/A,Nešiojamas kompiuteris,710.8,25,3,,Grąžinta
+ORD-00148,26/11/2024,Ausinės,196.24,0,5,Klaipėda,
+ORD-00289,05.12.2024,Išmanusis laikrodis,229.91,0,5,Siauliai,nezinoma
+ORD-00431,2024/11/06,Monitorius,476.54,0,3,Panevėžys,Procesoje
+ORD-00133,27.10.2024,Išmanusis telefonas,695.69,0,1,Panevėžys,grąžinta
+ORD-00331,12-12-2024,,€18.79,25, ,Klaipėda,negrąžinta
+ORD-00075,09/28/2024,Žaidimų padas,48.25,0,4,UTENA,NEGRĄŽINTA
+ORD-00388,2024.07.05,USB kabelis,16.42,0,1,Marijampole,?
+ORD-00351,2024.12.19,USB kabelis,20.89,5,1,ALYTUS,Dalinis
+ORD-00340,2024.11.11,Žaidimų padas,68.18,0,3,Klaipėda,negrąžinta
+ORD-00607,10/03/2024,Išmanusis laikrodis,454.35,0,5,Klaipeda,?
+ORD-00230,02.07.2024,Bluetooth kolonėlė,103.4,0,4,Marijampolė,Procesoje
+ORD-00505,2024/11/29,Ausinės,30.44,0,1,Marijampole,Grąžinimo procese
+,,,,,,,
+ORD-00673,2024/08/18,Vaizdo kamera,127.29,10,5,kaunas,Negrąžinta
+ORD-00152,28-05-2024,Kroviklis,39.0,0,2,UTENA,grąžinta
+ORD-00019,23-12-2024,Ausinės,43.53,0,4,ŠIAULIAI,-
+ORD-00389,2024.06.09,USB kabelis,7.89,0,3,KLAIPĖDA,negrąžinta
+ORD-00317,2024.05.02,Kompiuterio pelė,46.9,0,1,,Procesoje
+ORD-00466,2024-03-07,Maršrutizatorius,71.91,0,5,Utena,atšaukta
+ORD-00436,2024-01-15,Bluetooth kolonėlė,123.3,0,2,vilnius,?
+ORD-00454,2024-03-31,Ausinės,58.96,0,5,ŠIAULIAI,GRĄŽINTA
+ORD-00586,05-01-2024, ,11.57,0,1,ALYTUS,GRĄŽINTA
+ORD-00043,2024/11/05,Kroviklis,31.93,35,2,N/A,Negrąžinta
+ORD-00269,2024.04.08,Išmanusis telefonas,568.36,20,2,PANEVĖŽYS,Grąžinta
+ORD-00646,2024.04.29,Kompiuterio pelė,65.99,0,3,Klaipėda,nezinoma
+ORD-00720,2024-03-15,Išorinis diskas,74.73,0,1,Klaipeda,GRĄŽINTA
+ORD-00298,2024/08/25,Ausinės,216.95,0,2,KAUNAS,-
+ORD-00348,2024-10-29,USB kabelis,13.68,5,4,Panevezys,negrąžinta
+ORD-00520,2024.01.17,Išmanusis laikrodis,322.45,35,1,ALYTUS,
+ORD-00621,23/10/2024,USB kabelis,5.32,0,1,VILNIUS,Procesoje
+ORD-00534,2024/07/25,Nešiojamas kompiuteris,613.5,0,1,VILNIUS,grąžinta
+ORD-00716, ,Kroviklis,33.88,,1,Siauliai,Negrąžinta
+ORD-00475,08/22/2024,Kompiuterio pelė,45.42,50,1,Marijampole,GRĄŽINTA
+ORD-00009,06-06-2024,Išmanusis telefonas,983.59,0,5,Marijampolė,GRĄŽINTA
+ORD-00610,04/25/2024,Maršrutizatorius,47.86,0,1,Panevėžys,Negrąžinta
+ORD-00363,29/12/2024,Klaviatūra,151.71,0,1, ,-
+ORD-00043,2024-02-11,Klaviatūra,69.85,40,5,vilnius,Procesoje
+ORD-00362,05.08.2024,Išmanusis telefonas,990.87,35,3,vilnius,Negrąžinta
+ORD-00392,23.03.2024,Klaviatūra,37.33,30,1,,N/A
+ORD-00688,01-08-2024,Išorinis diskas,141.92,0,5,Panevėžys,negrąžinta
+ORD-00006,14-05-2024,Planšetė,445.76,0,4,KAUNAS,N/A
+ORD-00537,2024-07-15,Išmanusis telefonas,496.27,0,2,vilnius,negrąžinta
+ORD-00635,19/01/2024,Klaviatūra,55.13,0,1,Alytus,atšaukta
+ORD-00382,2024/02/20,Monitorius,301.79,0,5,Alytus,NEGRĄŽINTA
+ORD-00100,2024/12/16,Monitorius,302.09,0,3,ŠIAULIAI,
+ORD-00064,30/03/2024, ,33.88 EUR,40,1,PANEVĖŽYS,Dalinis
+ORD-00213,06.01.2024,Monitorius,370.24,0,2,Klaipeda,
+ORD-00066,2024-10-09,Išorinis diskas,145.37,0,3,Panevėžys,nezinoma
+ORD-00285,11/04/2024,USB kabelis,10.33,0,3,Kaunas,N/A
+ORD-00216,2024-05-29,Ausinės,229.48,0,2,Kaunas,
+ORD-00114,2024.04.08,Vaizdo kamera,104.75,5,3,KLAIPĖDA,
+ORD-00085,2024-02-11,Kroviklis,10.53,40,1,PANEVĖŽYS,Negrąžinta
+ORD-00249,13-04-2024,Nešiojamas kompiuteris,1087.91,0,1,UTENA,Negrąžinta
+ORD-00050,N/A,Klaviatūra,105.62,0,4,ALYTUS,Negrąžinta
+ORD-00492,2024/01/24,Bluetooth kolonėlė,163.97,40,3,N/A,Grąžinta
+ORD-00329,31.08.2024,Planšetė,436.29,0,5,PANEVĖŽYS,
+ORD-00509,2024.11.27,Kompiuterio pelė,16.92,0,1,Kaunas,N/A
+ORD-00400,06/22/2024,Klaviatūra,31.8,30,3,Panevezys,atšaukta
+ORD-00585,2024/11/14,Kompiuterio pelė,39.58,0,?,Panevezys,Dalinis grąžinimas
+ORD-00707,2024-01-31,Nešiojamas kompiuteris,827.95,0,5,vilnius,NEGRĄŽINTA
+ORD-00037,14.02.2024,Bluetooth kolonėlė,113.03,0,5,KLAIPĖDA,Dalinis grąžinimas
+ORD-00612,2024-10-01,Planšetė,262.36,0,2,UTENA,Procesoje
+ORD-00198,03/11/2024,Kroviklis,45.28,0,2,Marijampole,Grąžinimo procese
+ORD-00704,01/29/2024,Išmanusis laikrodis,411.44,0,5,kaunas,grąžinta
+ORD-00081,19/04/2024,Ausinės,241.79,50,5,VILNIUS,Dalinis grąžinimas
+ORD-00576,31.07.2024,Išmanusis telefonas,727.62,0,5,UTENA,Grąžinta
+ORD-00086,2024.10.07,Išmanusis laikrodis,232.45,0,5,Alytus,Negrąžinta
+ORD-00175,15.07.2024,Kroviklis,9.78,0,5,Alytus,Dalinis
+ORD-00519,2024.10.01,Monitorius,344.28,0,4,Klaipėda,atšaukta
+ORD-00677,2024/06/03,Kroviklis,45.49,0,2,Šiauliai,?
+ORD-00713,2024-06-11,Kompiuterio pelė,84.92,taip,1,Panevezys,
+ORD-00059,2024.04.25,Išorinis diskas,100.29,0,3, ,Atšaukta
+ORD-00374,2024-08-31,Monitorius,384.2,0,2,,Grąžinta
+ORD-00046,2024/05/22,Išmanusis telefonas,523.74,0,4,Alytus,atšaukta
+ORD-00641,2024/03/21,Išorinis diskas,102.74,0,4,Vilnius,?
+ORD-00324,10.02.2024,Išorinis diskas,117.04,0,5,N/A,NEGRĄŽINTA
+ORD-00048,2024/10/02,USB kabelis,19.85,0,3,Alytus,N/A
+ORD-00684,2024.08.18,Vaizdo kamera,256.17,0,1,Panevezys,N/A
+ORD-00639,13.05.2024,Klaviatūra,99.77,0,2,PANEVĖŽYS,N/A
+ORD-00403,2024/09/17,Bluetooth kolonėlė,159.36 EUR,10,1,Siauliai,Negrąžinta
+ORD-00426,2024/10/16,Bluetooth kolonėlė,142.38,0,1,Panevėžys,?
+ORD-00094,2024-09-12,Išmanusis laikrodis,363.16,0,4,kaunas,NEGRĄŽINTA
+ORD-00029,16.07.2024,Išorinis diskas,59.69,0,3,Marijampolė,grąžinta
+ORD-00098,09/22/2024,Vaizdo kamera,244.9,0,5,Marijampole,grąžinta
+ORD-00490,2024/06/21,Kompiuterio pelė,64.22,0,0,Siauliai,Grąžinta
+ORD-00574,2024.12.09,Klaviatūra,55.36,35,5,Kaunas,Grąžinta
+ORD-00683,04/21/2024,Kroviklis,47.41,0,4,Panevėžys,Procesoje
+ORD-00135,12/04/2024,USB kabelis,12.6,0,3,ŠIAULIAI,Grąžinta
+ORD-00516,2024-07-06,Klaviatūra,77.05,10,3,Šiauliai,atšaukta
+ORD-00441,2024-03-31,Kompiuterio pelė,31.39,?,5,N/A,Dalinis
+ORD-00709,2024-12-20,Išmanusis laikrodis,EUR,-,2,Siauliai,N/A
+ORD-00014,02.01.2024,Išmanusis laikrodis,497.4,0,5,Šiauliai,Grąžinimo procese
+ORD-00562,2024.04.18,Žaidimų padas,126.09,35,5,Vilnius,Dalinis
+ORD-00272,16/11/2024,Išorinis diskas,90.18,0,0,PANEVĖŽYS,Grąžinimo procese
+ORD-00748,11/04/2024,Maršrutizatorius,164.45,0,4,Klaipeda,Dalinis
+ORD-00149,2024.09.08,Bluetooth kolonėlė,78.66,0,1,PANEVĖŽYS,nezinoma
+ORD-00504,09/04/2024,Išmanusis telefonas,902.55,35,5,Marijampolė,?
+ORD-00253,01/05/2024,Kroviklis,31.18,0,2,Marijampole,Atšaukta
+ORD-00182,20/06/2024,Kompiuterio pelė,15.09,35,4,Alytus,
+ORD-00548,19-02-2024,Išorinis diskas,152.49,0,1,KAUNAS,grąžinta
+ORD-00117,15-10-2024,Vaizdo kamera,219.49,0,1,vilnius,?
+ORD-00718,08/28/2024,Kompiuterio pelė,22.13,0,2,kaunas,Procesoje
+ORD-00091,05.08.2024,Išmanusis laikrodis,380.32,0,1,,-
+ORD-00445,05/22/2024, ,82.69,0,3,vilnius,Procesoje
+ORD-00425,2024-08-04,Išmanusis laikrodis,165.71,0,2, ,Negrąžinta
+ORD-00422,05.02.2024,Nešiojamas kompiuteris,1244.76,50,5,Šiauliai,N/A
+ORD-00346,2024.08.29,Maršrutizatorius,98.76,0,1,KLAIPĖDA,Grąžinimo procese
+ORD-00036,2024-10-28,Bluetooth kolonėlė,176.47,0,4,UTENA,nezinoma
+ORD-00084,12/09/2024,Žaidimų padas,46.04,0, ,Panevezys,Negrąžinta
+ORD-00577,06.01.2024,Klaviatūra,136.51,0,1,Vilnius,negrąžinta
+ORD-00733,2024-02-20,Žaidimų padas,100.47,0,3,VILNIUS,Dalinis grąžinimas
+ORD-00437,05-05-2024,Nešiojamas kompiuteris,1033.51,0,4,Alytus,Atšaukta
+ORD-00691,2024/06/06,USB kabelis,19.87,0,1,Panevėžys,Atšaukta
+ORD-00209,2024/07/03,Žaidimų padas,115.68,0,1,PANEVĖŽYS,Atšaukta
+ORD-00693,2024.03.27,Nešiojamas kompiuteris,756.38,0,3, ,Grąžinta
+ORD-00620,2024.11.08,Išorinis diskas,113.34,5,2,Klaipeda,Grąžinta
+ORD-00565,07/19/2024,Ausinės,54.18,0,1,Vilnius,NEGRĄŽINTA
+ORD-00488,05.04.2024,Išmanusis laikrodis,303.26,0,1,vilnius,atšaukta
+ORD-00676,22.08.2024,Maršrutizatorius,112.35,0,1, ,Grąžinta
+ORD-00158,2024-03-09,Nešiojamas kompiuteris,844.83,40,2,Klaipėda,NEGRĄŽINTA
+ORD-00446,-,Bluetooth kolonėlė,171.89,5,1,Siauliai,?
+ORD-00710,29.09.2024,Maršrutizatorius,177.76,0,,KAUNAS,Grąžinta
+ORD-00011,04/27/2024,Planšetė,468.62,0,2,Klaipeda,nezinoma
+ORD-00022,28/06/2024,Kroviklis,43.57,0,1,Panevėžys,Dalinis grąžinimas
+ORD-00587,20-06-2024,Monitorius,521.49,0,5,N/A,nezinoma
+ORD-00433,10/01/2024,Išmanusis laikrodis,395.97,30,1,Panevėžys,negrąžinta
+ORD-00077,2024/01/30,Žaidimų padas,73.6,5,4,PANEVĖŽYS,Grąžinimo procese
+ORD-00647,24.08.2024,USB kabelis,18.99,0,4, ,Grąžinta
+ORD-00558,2024.06.11,USB kabelis,0,0,2,UTENA,Grąžinta
+ORD-00679,2024/05/20,Planšetė,309.53,0,3,PANEVĖŽYS,N/A
+ORD-XXXXX,08/12/2024,Žaidimų padas,126.61,0,3,Panevezys,-
+ORD-00633,19/10/2024,Išmanusis laikrodis,470.71,0,1,vilnius,grąžinta
+ORD-00517,2024/10/18,Maršrutizatorius,137.84,0,1,Siauliai,atšaukta
+ORD-00344,2024-08-30,Kompiuterio pelė,39.74,0,2, ,negrąžinta
+ORD-00471,2024/09/05,Monitorius,527.7,0%,4,KAUNAS,atšaukta
+ORD-00555,03.11.2024,Klaviatūra,57.57,taip,1,KLAIPĖDA,Atšaukta
+ORD-00047,2024-08-20,Klaviatūra,25.18,0,4,ALYTUS,Dalinis
+ORD-00040,data,Planšetė,484.54,?,5,ŠIAULIAI,Atšaukta
+ORD-00644,2024.07.11,Monitorius,376.97,30,5,Marijampolė,Grąžinta
+ORD-00347,2024.03.10,Kompiuterio pelė,26.6,50,5,Klaipeda,NEGRĄŽINTA
+ORD-00694,22.11.2024,Išorinis diskas,75.33,0,5,Siauliai,?
+ORD-00147,2024/06/01,Išmanusis telefonas,560.31,0,4,Marijampole,
+ORD-00578,08.02.2024,Išmanusis laikrodis,353.21,0,1,Marijampole,N/A
+ORD-00655,10.08.2024,Monitorius,339.84,20,1,Panevėžys,Dalinis
+ORD-00702,26.11.2024,Žaidimų padas,103.5,0,2,Panevėžys,Dalinis grąžinimas
+ORD-00630,20-08-2024,Išmanusis laikrodis,253.07,50,3,Panevezys,atšaukta
+ORD-00156,2024-05-20,Maršrutizatorius,139.1,0,-1,vilnius,Grąžinta
+ORD-00030,2024-07-27,Klaviatūra,170.69,taip,3,Alytus,Negrąžinta
+ORD-00237,05-12-2024,Išorinis diskas,72.29,40,4,ŠIAULIAI,negrąžinta
+ORD-00054,29/01/2024,Klaviatūra,51.18,0,2,Klaipeda,nezinoma
+ORD-00227,N/A,Vaizdo kamera,321.54,15,2,Marijampolė,Negrąžinta
+ORD-00007,2024-09-27,Išmanusis telefonas,485.78,0,3,PANEVĖŽYS,Negrąžinta
+ORD-00582,2024-12-04,Išmanusis telefonas,576.85,0,4,ŠIAULIAI,Grąžinta
+ORD-00440,2024/12/10,Išorinis diskas,162.97,40,4,N/A,Grąžinta
+ORD-00748,11/04/2024,Maršrutizatorius,164.45,0,4,Klaipeda,Dalinis
+ORD-00598,04-04-2024,Bluetooth kolonėlė,133.92,0,5, ,Procesoje
+ORD-00409,18.02.2024,Išmanusis laikrodis,154.69,35,3,VILNIUS,NEGRĄŽINTA
+ORD-00273,01/21/2024,Monitorius,305.45,50,4,KAUNAS,NEGRĄŽINTA
+ORD-00228,16-12-2024,Maršrutizatorius,142.45,0,1,PANEVĖŽYS,Dalinis grąžinimas
+ORD-00724,30-06-2024,Vaizdo kamera,224.65,0,5,KAUNAS,Grąžinta
+ORD-00559,26/03/2024,Kroviklis,€41.55,10,4,,nezinoma
+ORD-00005,01/29/2024,Išmanusis telefonas,912.46,0,2,UTENA,-
+ORD-00131,22.12.2024,Žaidimų padas,75.48,0,4,,GRĄŽINTA
+ORD-00170,10.06.2024,Kompiuterio pelė,84.82,0,3,Kaunas,GRĄŽINTA
+ORD-00101,03/05/2024,Nešiojamas kompiuteris,1029.76,0,2,Siauliai,Dalinis grąžinimas
+ORD-00359,2024/10/20,Monitorius,364.54,0,2,Vilnius,
+ORD-00567,23-10-2024,Ausinės,54.05,35,4,Kaunas,nezinoma
+ORD-00162,2024-10-01,Vaizdo kamera,120.95,10,2,Šiauliai,N/A
+ORD-00169,2024/04/28,Monitorius,192.01,0,2,Marijampole,negrąžinta
+ORD-00652,2024/02/22,Kompiuterio pelė,59.75,0,2,Alytus,Grąžinimo procese
+ORD-00480,29/03/2024,Išmanusis telefonas,413.91,0,2,Šiauliai,atšaukta
+ORD-00142,2024/11/27,Klaviatūra,147.62,0,5, ,?
+ORD-00247,2024/07/22,Planšetė,279.9,0,1,Marijampolė,negrąžinta
+ORD-00514,26.05.2024,-,22.28,0,5,Marijampolė,Grąžinta
+ORD-00171,16.04.2024,Ausinės,219.27,15,4,vilnius,Procesoje
+ORD-00248,2024-08-29,Kompiuterio pelė,43.44,0,2,,negrąžinta
+ORD-00634,23-04-2024,Monitorius,498.67,35,5,Kaunas,?
+ORD-00408,28.05.2024,Ausinės,110.11,0,5,Marijampolė,NEGRĄŽINTA
+ORD-00473,07/12/2024,Planšetė,693.65,0,2,Klaipeda,Grąžinta
+ORD-00744,2024/02/18,Klaviatūra,155.48,0,2,Panevezys,Atšaukta
+ORD-00525,19.02.2024,Kompiuterio pelė,69.98,0,1,KLAIPĖDA,Grąžinimo procese
+ORD-00503,2024.11.28,Išmanusis telefonas,747.99,0,1,Marijampole,nezinoma
+ORD-00643,2024/10/04,Klaviatūra,73.08,0,3,KLAIPĖDA,-
+ORD-00052,2024-08-13,Klaviatūra,36.52,0,5,Panevėžys,NEGRĄŽINTA
+ORD-00556,11.02.2024,Planšetė,614.27,0,4,Šiauliai,GRĄŽINTA
+ORD-00020,05.07.2024,Kompiuterio pelė,22.61,0,2,Utena,grąžinta
+ORD-00045,2024.09.09,Bluetooth kolonėlė,192.52,25,2,Marijampole,negrąžinta
+ORD-00663,2024.03.28,Bluetooth kolonėlė,87.98,0,3,,?
+ORD-00275,2024-05-24,Kroviklis,14.19,0,4,Kaunas,negrąžinta
+ORD-00371,2024-11-09,Išorinis diskas,-,0,1,Marijampolė,Negrąžinta
+ORD-00325,2024-01-28,Vaizdo kamera,168.51,0,5,KAUNAS,negrąžinta
+ORD-00112,20.01.2024,Maršrutizatorius,165.07,25,5,VILNIUS,Negrąžinta
+ORD-00330,2024.09.29,Kroviklis,19.68,0,5,N/A,Procesoje
+ORD-00041,2024-08-28,Žaidimų padas,75.06,0,2,kaunas,atšaukta
+ORD-00268,12/08/2024, ,81.95,30,4,vilnius,grąžinta
+ORD-00721,25-06-2024,Planšetė,418.93,0,2,Siauliai,Dalinis grąžinimas
+ORD-00465,2024-11-04,Klaviatūra,126.57,0,4,KAUNAS,Dalinis grąžinimas
+ORD-00048,2024/10/02,USB kabelis,19.85,0,3,Alytus,N/A
+ORD-00037,03/23/2024,Ausinės,295.26,0,4,kaunas,Grąžinta
+ORD-00479,2024/12/06,Bluetooth kolonėlė,60.2,0,2,Klaipėda,negrąžinta
+ORD-00157,data,Žaidimų padas,45.37,0,2,Siauliai,Dalinis
+ORD-00535,,Išmanusis telefonas,895.9,40,2,KAUNAS,atšaukta
+ORD-00274,06-07-2024,Ausinės,127.3,0,4,Marijampolė,
+ORD-00632,2024/11/06,Išmanusis telefonas,827.41,,,Marijampolė,Grąžinimo procese
+ORD-00728,2024.11.17,Išmanusis telefonas,406.57,25,3,VILNIUS,
+ORD-00033,2024.03.18,Išmanusis laikrodis,289.31,0,3,Alytus,-
+???,2024-07-06, ,10.75,0,5,Vilnius,N/A
+ORD-00071,17/10/2024,Bluetooth kolonėlė,104.33,0,4,Klaipėda,?
+ORD-00533,2024/03/31,Išmanusis laikrodis,N/A,0,4,Klaipėda,NEGRĄŽINTA
+ORD-00322,2024/01/09,Ausinės,141.28,0,4,Panevezys,GRĄŽINTA
+ORD-00477,2024-01-07,USB kabelis,6.59,0,2,Panevėžys,Grąžinimo procese
+ORD-00166,2024.12.01,Kompiuterio pelė,42.59,0,1,ALYTUS,negrąžinta
+ORD-00527,2024.10.13,Išmanusis telefonas,592.3,0,2,Utena,Atšaukta
+ORD-00084,21.09.2024,Monitorius,345.86,0,4,ŠIAULIAI,Negrąžinta
+ORD-00154,,Monitorius,531.55,20,3,Alytus,Atšaukta
+ORD-00645,2024-04-28,Kompiuterio pelė,21.19,20,4,vilnius,grąžinta
+ORD-00134,2024-01-28,Išorinis diskas,174.96,40,4,Alytus,Procesoje
+???,20/06/2024,Ausinės,142.29,0,2,UTENA,GRĄŽINTA
+ORD-00607,10/03/2024,Išmanusis laikrodis,454.35,0,5,Klaipeda,?
+ORD-00140,2024/04/02,USB kabelis,21.63,40,2,kaunas,atšaukta
+ORD-00687,24-08-2024,Žaidimų padas,80.6,0%,4,N/A,N/A
+ORD-00680,N/A,Žaidimų padas,105.83,0,5,KLAIPĖDA,
+ORD-00705,2024/05/05,Vaizdo kamera,116.93,0,3, ,Dalinis grąžinimas
+ORD-00435,2024.03.13,Maršrutizatorius,159.34,35,4,Kaunas,Atšaukta
+ORD-00625,30.05.2024,Kompiuterio pelė,86.96,35,5,ŠIAULIAI,NEGRĄŽINTA
+ORD-00384,02/06/2024,Išmanusis laikrodis,416.2,25%,2,ALYTUS,GRĄŽINTA
+ORD-00653,10.11.2024,,56.05,0,4,ALYTUS,Grąžinta
+ORD-00264,2024/05/19,Bluetooth kolonėlė,137.09,0,2,Šiauliai,Dalinis
+ORD-00146,2024.10.01,Kroviklis,34.56,0,5,ŠIAULIAI,Dalinis
+N/A,09/01/2024,Monitorius,282.31,20,4,,NEGRĄŽINTA
+ORD-00593,12/04/2024,Išmanusis telefonas,621.81,10,3,kaunas,?
+ORD-00083,2024/08/28,Monitorius,320.84,15,3,KLAIPĖDA,negrąžinta
+ORD-00124,2024-12-28,Klaviatūra,62.4,30,4,vilnius,Grąžinimo procese
+ORD-00003,2024.08.23,Išmanusis laikrodis,450.6,0,2,Klaipeda,atšaukta
+ORD-00566,20/08/2024,Maršrutizatorius,173.47,0,2,KLAIPĖDA,negrąžinta
+ORD-00508,2024/02/08,Klaviatūra,129.18,0,2,UTENA,Atšaukta
+ORD-00399,30.06.2024,USB kabelis,"15,09",0,3,Marijampolė,negrąžinta
+ORD-00563,2024.05.15,Nešiojamas kompiuteris,609.87,30,4,Siauliai,GRĄŽINTA
+ORD-00039,2024/08/30,Kompiuterio pelė,33.6,0,4,Marijampolė,GRĄŽINTA
+ORD-00495,20-12-2024,Bluetooth kolonėlė,183.73,0,2,Marijampolė,N/A
+ORD-00318,09/06/2024,Žaidimų padas,75.52,0,1,Panevėžys,Dalinis grąžinimas
+ORD-00452,2024/01/22,Planšetė,439.37,35,1,Klaipėda,
+ORD-00695,2024-10-02,Vaizdo kamera,278.65,0,5,,-
+ORD-00042,06.11.2024,Monitorius,413.84,0,2, ,Grąžinta
+ORD-00712,2024.04.16,Išorinis diskas,61.07,10,4,KAUNAS,Grąžinimo procese
+ORD-00689,04.03.2024,Išorinis diskas,96.64,0,3,Alytus,Grąžinimo procese
+ORD-00125,2024/02/07,Planšetė,365.48,5%,4, ,Grąžinta
+ORD-00013,08-02-2024,Kroviklis,47.76,0,4,Alytus,nezinoma
+ORD-00385,27.08.2024,Išorinis diskas,143.46,0,3,Klaipeda,grąžinta
+ORD-00262,2024/03/05,Išmanusis telefonas,365.89,0,1,Panevėžys,?
+ORD-00177,10/21/2024,Žaidimų padas,67.62,0,5,,Dalinis
+ORD-00397,16/05/2024,Planšetė,340.48,0,3,kaunas,Negrąžinta
+ORD-00316,31.08.2024,Išorinis diskas,115.03,0,5,Marijampolė,NEGRĄŽINTA
+ORD-00252,2024.06.22,Žaidimų padas, ,20,4,N/A,Procesoje
+ORD-00280,18-01-2024,Maršrutizatorius,74.5,30%,5,,Atšaukta
+ORD-00387,04/13/2024,Išmanusis laikrodis,447.38,0,1,vilnius,Dalinis grąžinimas
+ORD-00232,2024/02/13,Klaviatūra,46.94,0,5,Kaunas,GRĄŽINTA
+ORD-99999,,,,,,,
+ORD-00411,2024/09/01,Bluetooth kolonėlė,167.23,35,1,Šiauliai,NEGRĄŽINTA
+ORD-00685,13-11-2024,Nešiojamas kompiuteris,997.51,0,2, ,
+ORD-00416,2024/12/02,Klaviatūra,138.13,20,2,Šiauliai,NEGRĄŽINTA
+,24/05/2024,Išorinis diskas,75.22,0,4,Alytus,Grąžinimo procese
+ORD-00121,27-02-2024,Maršrutizatorius,49.77,0,4,VILNIUS,Procesoje
+ORD-00365,2024-12-17,USB kabelis,8.26,15,3,ŠIAULIAI,GRĄŽINTA
+ORD-00672,2024-12-01,Ausinės,151.77,0,1,VILNIUS,atšaukta
+ORD-00457,2024.07.10,Bluetooth kolonėlė,128.28,-,4,Klaipėda,-
+ORD-00591,2024-01-03,Ausinės,260.93,0,2,vilnius,Atšaukta
+ORD-00681,2024/10/14,Kompiuterio pelė,48.41,0,4,Utena,Dalinis
+ORD-00696,07/04/2024,Nešiojamas kompiuteris,1132.18,5,1,Siauliai,NEGRĄŽINTA
+ORD-00515,2024/01/04,USB kabelis,24.98,0,5,PANEVĖŽYS,GRĄŽINTA
+ORD-00615,2024-12-23,Žaidimų padas,73.58,0,4,Utena,
+ORD-00241,2024/03/06,Maršrutizatorius,80.32,0,3,Marijampole,Negrąžinta
+ORD-00203,04/12/2024,Vaizdo kamera,248.21,0,5,kaunas,Grąžinta
+ORD-00103,05/15/2024,Nešiojamas kompiuteris,986.26,25,1,Utena,Grąžinta
+ORD-00089,03.04.2024,Nešiojamas kompiuteris,738.63,0,2,Marijampolė,nezinoma
+ORD-00301,07-01-2024,Bluetooth kolonėlė,129.11,0,5,Utena,Negrąžinta
+ORD-00455,03/02/2024,Planšetė,357.98,20,3,Marijampolė,atšaukta
+ORD-00296,2024/01/22,Bluetooth kolonėlė,120.15,0,1,Kaunas,-
+ORD-00278,2024-10-12,Bluetooth kolonėlė,142.09,0,2,Panevėžys,?
+ORD-00173,26.11.2024,Išmanusis telefonas,865.51,10,5,VILNIUS,-
+ORD-00424,2024/02/13,Maršrutizatorius,84.43,0,?,UTENA,GRĄŽINTA
+ORD-00042,06/28/2024,Išmanusis telefonas,723.31,0,5,KAUNAS,Negrąžinta
+ORD-00033,2024/01/27,Kroviklis,18.89,0,2,Alytus,Grąžinta
+ORD-00501,04/09/2024,Planšetė,€561.98,0,1,Panevezys,GRĄŽINTA
+ORD-00682,25/05/2024,Vaizdo kamera,308.41,25,4,KAUNAS,GRĄŽINTA
+ORD-00038,06/01/2024,Monitorius,363.24,0,2,Šiauliai,Procesoje
+ORD-00637,2024/05/29,Kompiuterio pelė,31.2,35,4,PANEVĖŽYS,Dalinis grąžinimas
+ORD-00069,11-10-2024,Klaviatūra,151.04,0,?,N/A,Atšaukta
+ORD-00276,25/12/2024,Išmanusis telefonas,-,40,4,UTENA,negrąžinta
+ORD-00150,05.10.2024,Išorinis diskas,177.67,25,1,VILNIUS,-
+ORD-00572,18-09-2024,Kroviklis,24.93,0,2,KAUNAS,Dalinis
+ORD-00545,2024.04.18,USB kabelis,6.54,0,3,Panevėžys,
+ORD-00526,2024/11/04,Planšetė,236.44,20,2,Marijampolė,grąžinta
+ORD-00746,15-07-2024,Žaidimų padas,96.28,10,5,N/A,grąžinta
+ORD-00338,2024.09.12,Nešiojamas kompiuteris,1150.44,50,2,PANEVĖŽYS,grąžinta
+ORDER,2024-05-12,Kroviklis,32.47,0,3,VILNIUS,Dalinis grąžinimas
+ORD-00155,2024/10/16,Nešiojamas kompiuteris,920.71,0,2,Vilnius,N/A
+ORD-00243,2024,Vaizdo kamera,242.49,0,1,Marijampolė,?
+ORD-00686,2024.07.07,Maršrutizatorius,49.37,150%,4,PANEVĖŽYS,Procesoje
+ORD-00390,10/06/2024,Maršrutizatorius,97.84,5,2, ,negrąžinta
+ORD-00328,2024.10.31,Klaviatūra,92.79,30,1,VILNIUS,Atšaukta
+ORD-00451,28/01/2024,Planšetė,532.93,0,4,Siauliai,Dalinis grąžinimas
+ORD-00028,19-09-2024,Bluetooth kolonėlė,188.62,0,3,KAUNAS,Negrąžinta
+ORD-00627,2024.08.03,Išorinis diskas,108.03,40,1, ,Grąžinta
+ORD-00485,06.05.2024,Išmanusis telefonas,940.82,50,4,Klaipėda,N/A
+ORD-00024,2024/12/17,Klaviatūra,75.85,25,3,ALYTUS,atšaukta
+ORD-00183,22/10/2024,Išorinis diskas,90.43,0,5,Panevėžys,GRĄŽINTA
+ORD-00219,2024/03/09,Žaidimų padas,103.07,0,2,Utena,atšaukta
+ORD-00553,,Ausinės,89.22,0,2,PANEVĖŽYS,-
+ORD-00261,26/07/2024,Kompiuterio pelė,34.79,0,4,ŠIAULIAI,?
+ORD-00310,27/02/2024,Monitorius,556.23,0,2,ALYTUS,atšaukta
+ORD-00467, ,Žaidimų padas,86.33,0,3,Marijampole,negrąžinta
+ORD-00080,13-11-2024,Maršrutizatorius,89.27,0,1,PANEVĖŽYS,Dalinis grąžinimas
+ORD-00008,09/16/2024,Vaizdo kamera,284.88,0,1,Vilnius,Dalinis grąžinimas
+ORD-00415,01-08-2024,Kompiuterio pelė,26.94,0,3,ALYTUS,Procesoje
+ORD-00129,2024-11-18,Monitorius,449.04,0,?,Vilnius,N/A
+ORD-00193,29.12.2024,Bluetooth kolonėlė,-,0,3,VILNIUS,-
+ORD-00327,2024-13-45,Maršrutizatorius,110.46,40,3,KAUNAS,?
+ORD-00381,05-06-2024,Monitorius,380.64,15%,4,Marijampole,Negrąžinta
+ORD-00304,2024/06/17,Nešiojamas kompiuteris,1039.29,0,3,,atšaukta
+ORD-00092,10.11.2024,Išmanusis telefonas,658.16,0,1,Utena,-
+ORD-00589,09/26/2024,Klaviatūra,67.54,10,3,Panevezys,-
+ORD-00116,09-03-2024,USB kabelis,15.75,0,5,Utena,NEGRĄŽINTA
+ORD-00601,01-12-2024,USB kabelis,20.7,0,4,UTENA,nezinoma
+ORD-00165,2024-02-22,Vaizdo kamera,,0,1,kaunas,GRĄŽINTA
+ORD-00715,2024-03-20,Išorinis diskas,87.1,0,2,KAUNAS,?
+ORD-00727,06/28/2024,Klaviatūra,170.43,0,5,Siauliai,Negrąžinta
+ORD-00284,10/21/2024,Ausinės,183.29,0,2,ALYTUS,N/A
+ORD-00617,06.08.2024,Išmanusis telefonas,951.73,0,4,Panevezys,?
+ORD-00006,18-04-2024,Išmanusis telefonas,530.16,0,4,Marijampole,GRĄŽINTA
+ORD-00640,02/26/2024,Vaizdo kamera,,30,5,Marijampolė,NEGRĄŽINTA
+ORD-00010,10/12/2024,Monitorius,156.6,0,5,Utena,NEGRĄŽINTA
+,15.12.2024,Išmanusis laikrodis,268.57,0,1,,grąžinta
+ORD-00708,2024.09.19,Planšetė,414.47,15,5,UTENA,Dalinis grąžinimas
+ORD-00015,08-03-2024,Kompiuterio pelė,42.76,0,1,Utena,negrąžinta
+ORD-00186,07/22/2024,Vaizdo kamera,181.99,0,5,KLAIPĖDA,Procesoje
+ORD-00312,N/A,Planšetė,337.32,0,1,kaunas,GRĄŽINTA
+ORD-00613,03-03-2024,USB kabelis,23.3,50,3,Šiauliai,Procesoje
+ORD-00383,01/06/2024,Išmanusis telefonas,713.31,0,1,Panevezys,Grąžinimo procese
+ORD-00412,22/12/2024,Ausinės,198.04,0,1,PANEVĖŽYS,grąžinta
+ORD-00547,18.10.2024,Nešiojamas kompiuteris,604.94,0,3,Klaipėda,Dalinis grąžinimas
+ORD-00319,2024-10-24,Kroviklis,24.6,0,3,Siauliai,atšaukta
+ORD-00236,2024-10-23,Vaizdo kamera,255.56,25,1,kaunas,-
+ORD-00378,2024.03.01,Nešiojamas kompiuteris,1201.25,0,4,kaunas,atšaukta
+ORD-00019,2024,USB kabelis,22.05,0,3,Klaipeda,negrąžinta
+ORD-00356,06/04/2024,Išmanusis laikrodis,249.85,0,3,KAUNAS,GRĄŽINTA
+ORD-00034,2024/07/07,Išorinis diskas,63.05,?,2,Marijampole,
+ORD-00323,2024-06-30,Žaidimų padas,63.23,0,1,VILNIUS,nezinoma
+ORD-00144,02/19/2024,Nešiojamas kompiuteris,1193.43,0,5, ,Procesoje
+ORD-00048,04/14/2024,USB kabelis,17.6,0,1,Vilnius,N/A
+ORD-00494,2024/12/03,Maršrutizatorius,161.61,0,5,N/A,Grąžinta
+ORD-XXXXX,02/03/2024,USB kabelis,12.79,0,2,UTENA,Dalinis grąžinimas
+ORD-00281,20/03/2024,Kompiuterio pelė,33.96,0,4,Klaipėda,NEGRĄŽINTA
+ORD-00345,2024/09/20,Bluetooth kolonėlė,144.06,0,2,Kaunas,Procesoje
+ORD-00343,32/01/2024,Vaizdo kamera,311.94,0,2,UTENA,Grąžinimo procese
+ORD-00536,16.05.2024,Vaizdo kamera,304.85,0,3,Panevezys,
+ORD-00080,01-12-2024,Išmanusis telefonas,853.16,50,1,vilnius,N/A
+ORD-00428,2024/08/13,Žaidimų padas,82.63,0,4,ALYTUS,Grąžinta
+ORD-00062,21.04.2024,Kroviklis,34.79,40,5,vilnius,Grąžinimo procese
+ORD-00222,14.10.2024,Išmanusis laikrodis,282.55,0,?,Marijampolė,negrąžinta
+ORD-00238,29.04.2024,Monitorius,166.96,25,5, ,Atšaukta
+ORD-00499,25.04.2024,Žaidimų padas,127.6,50,4,Panevėžys,Dalinis grąžinimas
+ORD-00666,2024.07.10,Maršrutizatorius,183.14,35,2,Marijampole,Negrąžinta
+ORD-00549,2024/04/28,USB kabelis,15.33,30,3,PANEVĖŽYS,grąžinta
+ORD-00137,13-10-2024,Kroviklis,21.05,0,1,Panevezys,atšaukta
+ORD-00130,14.09.2024,Ausinės,69.2,25,4,Panevėžys,NEGRĄŽINTA
+ORD-00355,08/03/2024,Nešiojamas kompiuteris,1262.21,0,5,UTENA,Dalinis grąžinimas
+ORD-00470,28-07-2024,Nešiojamas kompiuteris,1123.82,35,2,VILNIUS,Negrąžinta
+ORD-00257,2024.11.09,USB kabelis,13.01,20,5,Kaunas,Atšaukta
+ORD-00305,15-11-2024,USB kabelis,8.6,5,1,Kaunas,Negrąžinta
+ORD-00315,2024/12/23,Išorinis diskas,78.09,35,3,KAUNAS,Dalinis grąžinimas
+ORD-00076,23-10-2024,Bluetooth kolonėlė,82.74,0,1,KLAIPĖDA,negrąžinta
+ORD-00109,02.09.2024,Išmanusis laikrodis,281.89,15,1,Šiauliai,negrąžinta
+ORD-00246,09-05-2024,Išmanusis laikrodis,220.29,0,3,Marijampolė,nezinoma
+ORD-00393,2024/09/16,USB kabelis,20.24,0,-,UTENA,grąžinta
+ORD-00530,22.05.2024,Planšetė,257.09,30,4,vilnius,Atšaukta
+N/A,2024-04-01,Planšetė,428.3,0,2,vilnius,Dalinis
+ORD-00179,26.12.2024,Kompiuterio pelė,84.7,0,4,kaunas,GRĄŽINTA
+ORD-00277,2024-01-30,Žaidimų padas,125.45,0,2,Klaipėda,Grąžinimo procese
+ORD-00320,25-06-2024,Klaviatūra,34.61,0,3,Marijampolė,Dalinis
+ORD-00120,01-03-2024,Planšetė,688.25,0,3,Panevėžys,Procesoje
+ORD-00023,2024-10-24,Kompiuterio pelė,59.86,0,1,KLAIPĖDA,negrąžinta
+ORD-00723,12/30/2024,Vaizdo kamera,313.08,50,2,Klaipėda,grąžinta
+ORD-00314,06-08-2024,USB kabelis,11.25,0,4,Marijampolė,NEGRĄŽINTA
+ORD-00196,2024/11/07,Klaviatūra,95.69,0,1,Utena,
+ORD-00047,,Išmanusis laikrodis,235.99,50,daug,Panevezys,Grąžinimo procese
+ORD-00456,23-05-2024,Planšetė,594.5,0,5,UTENA,?
+ORD-00104,22/06/2024,Vaizdo kamera,89.51,0,5,kaunas,?
+ORD-00372,28/12/2024,Išmanusis telefonas,564.73,0,5,Siauliai,Grąžinta
+ORD-00044,05/08/2024,Žaidimų padas,110.34,40,4,Kaunas,-
+ORD-00126,26-12-2024,Išmanusis laikrodis,274.74,0,3,Kaunas,nezinoma
+ORD-00233,10/08/2024,Išmanusis laikrodis,319.52,0,2,Kaunas,atšaukta
+ORD-00557,2024/03/23,Žaidimų padas,-,0,-1,Siauliai,Dalinis grąžinimas
+ORD-00692,2024/03/16,Žaidimų padas,94.66,0,4,ALYTUS,Dalinis grąžinimas
+ORD-00631,2024/01/22,Vaizdo kamera,163.88,0,2,Alytus,-
+ORD-00104,22/06/2024,Vaizdo kamera,89.51,0,5,kaunas,?
+ORD-00497,2024/12/13,Planšetė,625.18€,40,3,N/A,-
+ORD-00419,26-02-2024,Išmanusis telefonas,372.79,15,5, ,atšaukta
+ORD-00394,2024/02/12,Žaidimų padas,92.46,0,5, ,grąžinta
+ORD-00483,2024.07.21,Bluetooth kolonėlė,197.72,0,3,Panevezys,Atšaukta
+ORD-00622,02/09/2024,Kroviklis,44.03,30,3,Panevezys,Dalinis
+ORD-00736,16.09.2024,Ausinės,82.63,35,5,KLAIPĖDA,grąžinta
+ORD-00698,2024.09.09,Kroviklis,18.96,0,2,PANEVĖŽYS,Grąžinta
+ORD-00398,2024.05.07,Monitorius,460.86,25,1,vilnius,Grąžinta
+ORD-00279,06/29/2024,Klaviatūra,136.78,0,4,Marijampolė,Atšaukta
+ORD-00379,08-09-2024,Vaizdo kamera,184.67,0,1,ŠIAULIAI,atšaukta
+ORD-00524,23/05/2024,Nešiojamas kompiuteris,1061.3€,10,4,Panevezys,GRĄŽINTA
+ORD-00638,2024.06.12,Išorinis diskas,161.32,0,4,KLAIPĖDA,?
+ORD-00580,2024-08-27,Žaidimų padas,116.26,0,2,kaunas,?
+ORD-00208,26/02/2024,Išorinis diskas,62.17,25,2,KLAIPĖDA,-
+ORD-00313,02/22/2024,USB kabelis,8.43,0,,VILNIUS,grąžinta
+ORD-00096,05/02/2024,Planšetė,334.54,0,4,kaunas,-
+ORD-00316,31.08.2024,Išorinis diskas,115.03,0,5,Marijampolė,NEGRĄŽINTA
+ORD-00282,2024-12-19,Išmanusis laikrodis,282.54,0,1,Panevezys,N/A
+ORD-00368,01.08.2024,Nešiojamas kompiuteris,852.8,0,1,Siauliai,GRĄŽINTA
+ORD-00053,2024-09-06,Kroviklis,38.87,0,3,Kaunas,-
+ORD-00031,2024/02/23,Monitorius,210.71,20,2,Kaunas,Dalinis
+ORD-00386,02/02/2024,Kroviklis,18.45,0,4,Šiauliai,-
+ORD-00194,2024-08-25,Planšetė,287.79,0,1,KAUNAS,Atšaukta
+ORD-00670, ,Kompiuterio pelė,15.12,0,1,Klaipeda,grąžinta
+ORD-00539,2024.09.01,Išmanusis laikrodis,193.64,0,3,Alytus,N/A
+ORD-00376,03/16/2024,Planšetė,248.8,0,3,KAUNAS,
+ORD-00239,2024-07-06,Klaviatūra,87.5,5,2,ALYTUS,grąžinta
+ORD-00449,2024-13-45,Žaidimų padas,96.36,40,1,KAUNAS,Procesoje
+,2024-06-15,Ausinės,,,2,,
+ORD-00288,2024/11/14,Klaviatūra,31.7,25,1,VILNIUS,-
+ORD-00022,14.06.2024,USB kabelis,13.99,0,4,ALYTUS,GRĄŽINTA
+ORD-00726,2024/12/28,Išmanusis telefonas,399.65,20,4,Panevėžys,GRĄŽINTA
+ORD-00468,06/26/2024,Žaidimų padas,61.42,0,1,N/A,GRĄŽINTA
+ORD-00487,,Klaviatūra,137.89,20,1,Alytus,GRĄŽINTA
+ORD-00242,06/11/2024,Klaviatūra,151.35,0,5, ,Dalinis grąžinimas
+ORD-00202,data,Išorinis diskas,112.65,0,4,UTENA,N/A
+ORD-00596,19-06-2024,Kompiuterio pelė,58.26,50,2,kaunas,nezinoma
+ORD-00594,2024.07.02,Monitorius,-50,taip,3,vilnius,grąžinta
+ORD-00402,2024.08.27,Kompiuterio pelė,48.87,0,3,ŠIAULIAI,NEGRĄŽINTA
+ORD-00730,05/23/2024,Kompiuterio pelė,87.75,20,4,Marijampole,nezinoma
+ORD-00254,03/05/2024,Žaidimų padas,48.6,0,5,Utena,Negrąžinta
+ORD-00070,2024-06-08,Išmanusis laikrodis,366.95,0,4,Klaipėda,Procesoje
+ORD-00623,23-01-2024,Bluetooth kolonėlė,150.68,20,2,Panevėžys,negrąžinta
+ORD-00430,01/25/2024,Žaidimų padas,€88.28,0,4,Marijampole,-
+ORD-00595,10-07-2024,Nešiojamas kompiuteris,881.06,-10%,3,PANEVĖŽYS,negrąžinta
+ORD-00464,2024.11.07,Klaviatūra,98.12,0,5,Šiauliai,NEGRĄŽINTA
+ORD-00361,07.12.2024,Klaviatūra,79.11,0,4, ,-
+ORD-00234,11/11/2024,Kompiuterio pelė,27.48,35,3,KLAIPĖDA,Dalinis
+ORD-00067,2024.07.23,Išmanusis laikrodis,472.04,0,5,Kaunas,Dalinis
+ORD-00029,2024/01/24,Vaizdo kamera,347.78,0,4,Klaipėda,GRĄŽINTA
+ORD-00294,09-11-2024,Planšetė,238.74,40,4,,Dalinis
+ORD-XXXXX,2024.12.26,Monitorius,286.1,0,5,Panevezys,grąžinta
+ORD-00184,2024.06.22,Klaviatūra,162.02,0,5,Klaipėda,N/A
+ORD-00096,03.07.2024,Ausinės,112.51,0,3,Panevezys,NEGRĄŽINTA
+ORD-00096,24.05.2024,Nešiojamas kompiuteris,1147.84,25,4,vilnius,NEGRĄŽINTA
+ORD-00201,14.07.2024,Ausinės,295.54,0,4,,GRĄŽINTA
+ORD-00648,05-08-2024,USB kabelis,5.19,25,3,ALYTUS,Dalinis grąžinimas
+ORD-00354,02/14/2024,Išmanusis telefonas,786.96,0,5,UTENA,Negrąžinta
+N/A,09/29/2024,Išorinis diskas,60.55,0,4,kaunas,Atšaukta
+ORD-00611,05/03/2024,Išmanusis telefonas,556.4,0,2,Klaipeda,NEGRĄŽINTA
+ORD-00127,2024/07/30,Išmanusis laikrodis,401.0,0,3,Marijampole,Procesoje
+ORD-00250,29/06/2024,USB kabelis,15.99,0,2,ŠIAULIAI,Atšaukta
+ORD-00656,N/A,Maršrutizatorius,186.45,0,3,Alytus,
+ORD-00739,07/17/2024,Išmanusis laikrodis,472.93,0,2,,grąžinta
+ORD-00332,2024/04/21,Išmanusis telefonas,758.48,10,4,,GRĄŽINTA
+ORD-00463,2024/06/30,Išorinis diskas,91.39,,3,kaunas,grąžinta
+ORD-00266,2024.04.06,USB kabelis,12.57,0,5,Utena,Atšaukta
+ORD-00088,2024-13-45,USB kabelis,16.64,0,4,Siauliai,GRĄŽINTA
+ORD-00561,2024-02-20,Nešiojamas kompiuteris,946.48,0,1,PANEVĖŽYS,?
+ORD-00528,2024/02/01,Monitorius,586.19,0,2,Panevėžys,
+ORD-00206,08/01/2024,Ausinės,31.51,0,1,Utena,grąžinta
+ORD-00552,2024/07/24,Kompiuterio pelė,38.21,0,1,N/A,negrąžinta
+ORD-00019,06/19/2024,Monitorius,153.35,50,2,VILNIUS,Dalinis
+ORD-00215,23/06/2024,Kompiuterio pelė,50.01,0,daug,N/A,Procesoje
+ORD-00200,24.04.2024,Kompiuterio pelė,77.99,0,2,Utena,NEGRĄŽINTA
+ORD-00543,2024/08/01,Vaizdo kamera,190.11,0,1,Šiauliai,Grąžinta
+ORD-00604,2024/02/07,Maršrutizatorius,110.92,0,3,Klaipėda,Atšaukta
+ORD-00665,2024-08-31,Kompiuterio pelė,28.78,150%,4,Marijampole,N/A
+ORD-00308,30-07-2024,USB kabelis,5.37,30,1,vilnius,grąžinta
+ORD-00287,13.11.2024,Kompiuterio pelė,48.3,-,5, ,Grąžinimo procese
+ORD-00605,10/08/2024,Nešiojamas kompiuteris,741.48,0,5,Panevezys,NEGRĄŽINTA
+ORD-00391,23.11.2024,Vaizdo kamera,183.89,25,2,Šiauliai,NEGRĄŽINTA
+ORD-00270,2024/06/08,Maršrutizatorius,116.0,0,2,N/A,Grąžinimo procese
+ORD-00128,2024/11/24,Ausinės,78.69,50,1,VILNIUS,NEGRĄŽINTA
+ORD-00290,2024-08-22,Vaizdo kamera,279.99,nėra,5,ŠIAULIAI,atšaukta
+ORD-00111,2024-08-29,Maršrutizatorius,179.9,25,1,Siauliai,atšaukta
+ORD-00568,02/09/2024,Monitorius,153.56,0,3,VILNIUS,Grąžinta
+ORD-00448,2024.10.13,Išorinis diskas,151.37,0,1,Panevezys,Grąžinta
+ORD-00569,N/A,Planšetė,458.0,0,2,Klaipėda,Negrąžinta
+ORD-00160,31.05.2024,Monitorius,436.14,0,5,ŠIAULIAI,Dalinis grąžinimas
+ORD-00309,2024.09.30,Išmanusis telefonas,792.69,0,3,Alytus,Procesoje
+ORD-00658,2024-03-08,Kroviklis,43.32,0,3, ,Negrąžinta
+ORD-00072,2024-10-30,Bluetooth kolonėlė,189.71,0,4,Kaunas,Negrąžinta
+ORD-00735,2024/11/23,Klaviatūra,99.76,0,1,KAUNAS,GRĄŽINTA
+ORD-00106,01-12-2024,Nešiojamas kompiuteris,1039.32,0,1,N/A,Procesoje
+ORD-00659,2024-10-27,Klaviatūra,34.47,0,1,KLAIPĖDA,NEGRĄŽINTA
+ORD-00560,10/04/2024,Ausinės,178.24,0,5,N/A,N/A
+ORD-00191,2024/07/25,Klaviatūra,61.59,5,4,Siauliai,atšaukta
+ORD-00575,,Žaidimų padas,80.56 EUR,50,1,VILNIUS,Dalinis grąžinimas
+ORD-00453,2024.01.16,Bluetooth kolonėlė,194.8,0,5,KLAIPĖDA,GRĄŽINTA
+ORD-00662,12.03.2024,Maršrutizatorius,80.5,0,5,ŠIAULIAI,Dalinis
+ORD-00212,2024/10/22,Vaizdo kamera,104.72,0,5,N/A,
+ORD-00105,11/11/2024,Vaizdo kamera,159.94,0,1,Panevezys,atšaukta
+ORD-00138,2024.11.16,Išmanusis laikrodis,EUR,30,5,PANEVĖŽYS,Dalinis grąžinimas
+ORD-00405,2024/11/25,Bluetooth kolonėlė,59.26,0,4,Klaipėda,GRĄŽINTA
+ORD-00292,05/11/2024,Bluetooth kolonėlė,175.64,0,2,kaunas,N/A
+ORD-00401,15/05/2024,Monitorius,532.87,0,1,kaunas,negrąžinta
+ORD-00421,18.11.2024,Išorinis diskas,102.74,30,1,Vilnius,-
+ORD-00531,data,Išmanusis laikrodis,337.09,10,3, ,
+ORD-00326,15-10-2024,Nešiojamas kompiuteris,1115.17,150%,3,vilnius,grąžinta
+ORD-00352,21-01-2024,Vaizdo kamera,343.94,0,2,Marijampole,Grąžinimo procese
+ORD-00519,2024.10.01,Monitorius,344.28,0,4,Klaipėda,atšaukta
+ORD-00174,-,Planšetė,422.01,0,5,UTENA,atšaukta
+ORD-00518,2024.07.24,Vaizdo kamera,112.44,0,3,Klaipeda,nezinoma
+ORD-00095,12-06-2024,Maršrutizatorius,152.53,0,2,Klaipeda,Grąžinta
+ORD-00506,01/18/2024,Vaizdo kamera,256.7,25,4,N/A,-
+ORD-00010,2024/10/03,Kroviklis,29.7,0,1,Marijampole,Procesoje
+???,25.09.2024,Planšetė,553.01,0,4,Šiauliai,grąžinta
+ORD-00136,2024.02.22,Vaizdo kamera,174.56,0,4,Panevėžys,Negrąžinta
+ORD-00339,2024,USB kabelis,17.65€,0,1,Marijampole,NEGRĄŽINTA
+ORD-00291,11.05.2024,Vaizdo kamera,171.28,50,5,N/A,Procesoje
+ORD-00417,2024.09.08,Planšetė,378.39,0,3,ALYTUS,negrąžinta
+ORD-00161,29.03.2024,Bluetooth kolonėlė,35.77,0,4,UTENA,?
+ORD-00153,2024.05.06,Kroviklis,27.08,0,3,ALYTUS,Atšaukta
+ORD-00375,2024.06.22,Žaidimų padas,107.83,35,4,ŠIAULIAI,nezinoma
+ORD-00442,04/23/2024,Monitorius,243.09,0,5,KLAIPĖDA,?
+ORD-00581,19.08.2024,Išmanusis telefonas,514.0,0,4,Kaunas,Grąžinta
+ORD-00217,2024/07/31,Išorinis diskas,125.61,0,4, ,negrąžinta
+ORD-00550,2024.01.21,Bluetooth kolonėlė,125.37,0,4,Šiauliai,NEGRĄŽINTA
+ORD-00342,30.10.2024,Monitorius,436.92,5,5,Utena,GRĄŽINTA
+ORD-00380,2024-07-06,Kroviklis,22.81,0,5,Klaipeda,Procesoje
+ORD-00302,2024/04/16,Ausinės,255.26,0,3,Panevezys,GRĄŽINTA
+ORD-00181,17.10.2024,Planšetė,447.09,0,1,Siauliai,GRĄŽINTA
+ORD-00502,01/27/2024,Ausinės,38.18,0,1,KAUNAS,
+ORD-00027,18/02/2024,Žaidimų padas,63.4,0,3,Marijampolė,negrąžinta
+ORDER,2024-13-45,Išmanusis laikrodis,285.97,150%,1,Alytus,N/A
+ORD-00590,2024/09/12,Išmanusis laikrodis,255.28,0,5,VILNIUS,Grąžinimo procese
+ORD-00396,08/07/2024,Bluetooth kolonėlė,102.98,0,2,Kaunas,Procesoje
+ORD-00444,-,Kroviklis,26.3,0,1,PANEVĖŽYS,nezinoma
+ORD-00360,29-01-2024,Maršrutizatorius,52.37,50,5,Panevėžys,Grąžinimo procese
+ORD-00336,03/03/2024,Išmanusis laikrodis,484.59,10,2,PANEVĖŽYS,atšaukta
+ORD-00469,2024/05/02,Kroviklis,37.9,50,1,Kaunas,Dalinis
+ORD-00286,N/A,Kompiuterio pelė,47.72,20,1,N/A,Dalinis
+ORD-00465,2024-11-04,Klaviatūra,126.57,0,4,KAUNAS,Dalinis grąžinimas
+ORD-00145,24/08/2024,Kroviklis,33.56,0,1,,Grąžinimo procese
+ORD-00418,03/02/2024,Išorinis diskas,83.77,0,4,N/A,Grąžinta
+ORD-00245,2024.02.12,Nešiojamas kompiuteris,1003.59,25%,1,Klaipėda,Dalinis grąžinimas
+ORD-00700,29-08-2024,Kroviklis,39.66,0,4,KAUNAS,Dalinis grąžinimas
+ORD-00113,25-05-2024,Ausinės,81.06,0,daug,KLAIPĖDA,GRĄŽINTA
+ORD-00099,2024-10-15,Kroviklis,17.43,0,3,UTENA,atšaukta
+ORD-00358,2024-03-24,Monitorius,566.52,0,3,ALYTUS,Dalinis grąžinimas
+ORD-00141,07-02-2024,Vaizdo kamera,191.94,nėra,2,,NEGRĄŽINTA
+ORD-00244,??/??/????,Kompiuterio pelė,46.74,30,3,Marijampole,Grąžinta
+ORD-00063,19-06-2024,Žaidimų padas,58.44,0,2,Utena,Negrąžinta
+ORD-00012,2024/06/30,Kroviklis,25.1,0,2,Klaipėda,-
+ORD-00178,2024-09-09,Planšetė,437.99€,0,3,,GRĄŽINTA
+ORD-00427,2024.07.03,Išmanusis telefonas,390.04,0,3,Panevėžys,?
+ORD-00172,2024.05.13,Vaizdo kamera,203.75,0,4,Klaipeda,grąžinta
+ORD-00028,2024/03/03,Vaizdo kamera,319.68,0,4,Marijampolė,-
+ORD-00119,02/05/2024,Išorinis diskas,143.81,40,5,Panevėžys,
+ORD-00521,25/06/2024,Žaidimų padas,105.37,0,5,Panevezys,Procesoje
+ORD-00500,07/19/2024,Planšetė,247.66,5,2,,atšaukta
+ORD-00513,2024/05/21,Žaidimų padas,46.82,10,2,vilnius,Procesoje
+ORD-00404,2024-02-24,USB kabelis,24.1,0%,5,UTENA,-
+ORD-00070,22/06/2024,Klaviatūra,174.66,0,3,PANEVĖŽYS,Dalinis grąžinimas
+ORD-00108,29.09.2024,Kroviklis,33.4,0,2,Klaipeda,atšaukta
+ORD-00214,2024.10.20,Monitorius,€330.55,0%,5,Utena,atšaukta
+ORD-00369,06/03/2024,Planšetė,544.41,35,5,VILNIUS,Grąžinimo procese
+ORD-00523,08-04-2024,Žaidimų padas,66.58,0,1,Alytus,negrąžinta
+ORD-00619,18.10.2024,Monitorius,,0,5,Marijampolė,Grąžinimo procese
+ORD-00668,2024-04-12,Žaidimų padas,61.03,0,4,Alytus,GRĄŽINTA
+ORD-00066,05-03-2024,Klaviatūra,94.87,50,2, ,Grąžinimo procese
+ORD-00749,2024.07.02,Maršrutizatorius,133.58,0,5,ALYTUS,?
+ORD-00583,05/30/2024,Monitorius,171.44,0,5,VILNIUS,Atšaukta
+ORD-00738,21/12/2024,Išorinis diskas,€80.68,0,5,Marijampolė,Grąžinimo procese
+ORD-00223,2024/08/14,Kompiuterio pelė,59.65,0,2,KAUNAS,NEGRĄŽINTA
+ORD-00293,2024/03/21,Kompiuterio pelė,17.18,25,2,PANEVĖŽYS,Atšaukta
+ORD-00187,07.12.2024,Išorinis diskas,158.3,0,1,Alytus,Procesoje
+ORD-00624,10/02/2024,Bluetooth kolonėlė,120.62,40,3,N/A,?
+ORD-00102,2024-09-12,Vaizdo kamera,236.5,0,1,UTENA,nezinoma
+ORD-00295,2024-04-08,Klaviatūra,56.24,40,4,Utena,nezinoma
+ORD-00122,29/01/2024,USB kabelis,20.45,50,1,Klaipeda,N/A
+ORD-00413,2024-12-25,Bluetooth kolonėlė,170.01,0,4,,N/A
+ORD-00235,2024-07-02,Bluetooth kolonėlė,169.5,10,5, ,NEGRĄŽINTA
+ORD-00479,2024/12/06,Bluetooth kolonėlė,60.2,0,2,Klaipėda,negrąžinta
+ORD-00481,2024.02.10,Monitorius,344.04,0,3,Panevėžys,N/A
+ORD-00259,12/19/2024,Kroviklis,19.39,30,5,Vilnius,N/A
+ORD-00512,2024.12.31,Išmanusis laikrodis,490.07,0,3,,-
+ORD-00082,24-03-2024,Ausinės,127.36,0,2, ,-
+ORD-00164,2024-05-17,Klaviatūra,134.7,0,5,ŠIAULIAI,negrąžinta
+ORD-00629,2024/08/17,Išmanusis laikrodis,405.71,50,5,vilnius,grąžinta
+ORD-00461,25.07.2024,Monitorius,577.17,20,5,Alytus,Procesoje
+ORD-00139,2024.12.21,Išmanusis laikrodis,487.72,0,5,Panevėžys,Dalinis
+ORD-00151,2024/05/01,USB kabelis,17.32,30,2,Marijampolė,Atšaukta
+ORD-00544,-,Maršrutizatorius,80.29,0,5,KAUNAS,Atšaukta
+ORD-00482,2024.03.30,Vaizdo kamera,115.9,0,3,Vilnius,?
+ORD-00026,2024/03/27,Kompiuterio pelė,32.38,0,5,VILNIUS,Procesoje
+ORD-00489,26.10.2024,Nešiojamas kompiuteris,1064.73,0,3,Vilnius,
+ORD-00703,13/08/2024,USB kabelis,14.4,0,5,,nezinoma
+ORD-00747,2024.03.31,Nešiojamas kompiuteris,1154.55,10,2,ŠIAULIAI,GRĄŽINTA
+ORD-00065,10.11.2024,Išmanusis laikrodis,170.29,0,1,Alytus,-
+ORD-00443,2024-12-10,USB kabelis,16.4,20,5,N/A,Negrąžinta
+ORD-00462,24.08.2024,Išorinis diskas,106.03,0,1,kaunas,atšaukta
+ORD-00690,12/29/2024,USB kabelis,18.99,15,daug,ALYTUS,atšaukta
+ORD-00546,25.02.2024,Nešiojamas kompiuteris,673.53,10%,1,Klaipėda,Grąžinimo procese
+ORD-00283,2024/11/30,Klaviatūra,74.17,0,4,kaunas,negrąžinta
+ORD-00118,2024/08/21,USB kabelis,nežinoma,0,1,VILNIUS,N/A
+ORD-00054,28-05-2024,Kompiuterio pelė,49.25,15,4,KAUNAS,?
+ORD-00060,01/13/2024,Planšetė,431.13,0,4,VILNIUS,negrąžinta
+ORD-00370,2024-05-09,Išorinis diskas,125.39,0,3,kaunas,Atšaukta
+ORD-00588,29/07/2024,Nešiojamas kompiuteris,1280.3,0,5,Panevėžys,Grąžinta
+ORD-00740,19-02-2024,Vaizdo kamera,242.1,0,5,Marijampolė,Procesoje
+ORD-00357,28/12/2024,Išmanusis telefonas,387.53,0,2,VILNIUS,Dalinis grąžinimas
+ORD-00729,26.10.2024,Išorinis diskas,60.51,20,4,N/A,nezinoma
+ORD-00001,23/11/2024,USB kabelis,15.91,0,5,Klaipeda,?
+ORD-00025,2024.03.06,Maršrutizatorius,103.97,0,4,Marijampole,Dalinis grąžinimas
+ORD-00341,31/07/2024,Maršrutizatorius,165.57,0,N/A,Alytus,NEGRĄŽINTA
+ORD-00013,08-02-2024,Kroviklis,47.76,0,4,Alytus,nezinoma
+ORD-00373,2024-12-26,Išmanusis telefonas,814.32,0,4,Panevezys,atšaukta
+ORD-00496,27/02/2024,Išmanusis telefonas,518.36,0,4,Marijampole,Grąžinimo procese
+ORD-00311,2024/09/21,Klaviatūra,25.63,0,1,vilnius,Dalinis grąžinimas
+ORD-00628,26.03.2024,Klaviatūra,86.96,0,1,Siauliai,Grąžinta
+ORD-00597,04/01/2024,Nešiojamas kompiuteris,962.88,0,1,ALYTUS,-
+ORD-00210,02/28/2024,USB kabelis,17.98,0,5,VILNIUS,GRĄŽINTA
+ORD-00678,2024.10.20,USB kabelis,18.43,0,1,KLAIPĖDA,Negrąžinta
+ORD-00671,22/06/2024,Klaviatūra,65.2,0,1,ALYTUS,Grąžinta
+ORD-00349,05.08.2024,Išmanusis telefonas,689.94,taip,2,Klaipėda,grąžinta
+ORD-00049,19-03-2024,Klaviatūra,62.53,50,3, ,grąžinta
+ORD-00726,2024/12/28,Išmanusis telefonas,399.65,20,4,Panevėžys,GRĄŽINTA
+ORD-00350,2024.09.02,USB kabelis,14.28,0,1,ŠIAULIAI,-
+ORD-00571,2024/10/27,Maršrutizatorius,82.47,0,1,Klaipėda,Dalinis
+ORD-00447,2024-02-18,Maršrutizatorius,174.63,40,4,VILNIUS,atšaukta
+ORD-00564,2024-04-08,Bluetooth kolonėlė,95.37,0,2,KAUNAS,N/A
+ORD-00493,2024/09/23,Ausinės,253.74,0,5,PANEVĖŽYS,Grąžinta
+ORD-00221,28.01.2024,Išmanusis laikrodis,170.71,0,5,ŠIAULIAI,-
+ORD-00057,06/29/2024,USB kabelis,7.74,0,2,PANEVĖŽYS,negrąžinta
+ORD-00554,07/22/2024,Kompiuterio pelė,66.97,0,2,kaunas,nezinoma
+ORD-00018,2024/03/09,Išmanusis laikrodis,269.01,0,4,KLAIPĖDA,negrąžinta
+ORD-00407,08/04/2024,Klaviatūra,104.05,0,5,,grąžinta
+ORD-00159,15.07.2024,Išmanusis laikrodis,359.35,5,5,N/A,atšaukta
+ORD-00045,09-07-2024,Monitorius,379.01,0,5,ALYTUS,N/A
+ORD-00015,09-06-2024,Vaizdo kamera,100.63,0,5,Klaipeda,
+ORD-00600,2024-11-29,Kompiuterio pelė,68.51,0,5,ALYTUS,Grąžinimo procese
+ORD-00068,10/14/2024,Išorinis diskas,55.69,0,4,ALYTUS,Grąžinimo procese
+ORD-00189,11/17/2024,Maršrutizatorius,128.02,0,1,Vilnius,?
+ORD-00540,05-05-2024,Vaizdo kamera,101.58,20,1,,NEGRĄŽINTA
+ORD-00143,25-08-2024,Nešiojamas kompiuteris,1243.38,30,2,Šiauliai,Dalinis grąžinimas
+ORD-00256,2024.07.20,USB kabelis,5.17,0,3,ŠIAULIAI,Atšaukta
+ORD-00163,2024-08-10,USB kabelis,5.25,15%,3,ŠIAULIAI,?
+ORD-00192,2024.04.26,Kompiuterio pelė,62.77,40,5,ALYTUS,Dalinis
+ORD-00065,15.10.2024,Kompiuterio pelė,59.26,0,1,kaunas,Atšaukta
+ORD-00017,15/10/2024,Ausinės,266.4,25,?,Utena,?
+ORD-00188,18.01.2024,Bluetooth kolonėlė,105.34,0,1,Klaipėda,grąžinta
+ORD-00507,2024/06/29,Žaidimų padas,51.75,0,3,Marijampolė,Grąžinimo procese
+ORD-00021,2024/03/31,Išorinis diskas,161.33,10,2,Panevėžys,negrąžinta
+ORD-00636,,Bluetooth kolonėlė,100.09,0,2,UTENA,Dalinis
+ORD-00097,14.12.2024,Kroviklis,14.16,50,3,kaunas,atšaukta
+ORD-00626,2024.09.04,Žaidimų padas,87.39,0,3,kaunas,Atšaukta
+ORD-00669,18.04.2024,Planšetė,263.25,25,5,N/A,N/A
+ORD-00654,08/30/2024,Maršrutizatorius,65.58,0,3,Panevezys,-
+ORD-00226,2024/08/31,N/A,65.23,0,1,Siauliai,
+ORD-00073,2024/12/26,Išmanusis telefonas,604.35,0,4,Panevezys,
+ORD-00658,2024-03-08,Kroviklis,43.32,0,3, ,Negrąžinta
+ORD-00303,2024.10.31,Kompiuterio pelė,37.15,0,2,Panevezys,NEGRĄŽINTA
+ORD-00538,2024/04/02,Bluetooth kolonėlė,46.67,10,2,Vilnius,grąžinta
+ORDER,2024.04.12,Vaizdo kamera,252.7,0,3,vilnius,NEGRĄŽINTA
+ORD-00307,18/10/2024,Žaidimų padas,121.45,0,5,UTENA,-
+ORD-00406,30.11.2024,Išorinis diskas,127.46,0,4,Klaipėda,nezinoma
+ORD-00734,10/12/2024,Išorinis diskas,158.81,0,3, ,Procesoje
+ORD-00024,04-07-2024,Monitorius,492.39,0,1,UTENA,Atšaukta
+ORD-00750,2024/03/10,Klaviatūra,100.65,0,1,Alytus,atšaukta
+ORD-00107,2024.08.02,Bluetooth kolonėlė,154.09,0,3,Siauliai,nezinoma
+ORD-00367,N/A,Monitorius,222.36,50,5,Utena,?
+ORD-00263,02/13/2024,USB kabelis,7.63,25%,4,ŠIAULIAI,Dalinis grąžinimas
+ORD-00199,31-08-2024,Ausinės,77.91,0,3,Marijampolė,GRĄŽINTA
+ORD-00608,2024.10.06,Išmanusis laikrodis,296.49,0,1,Klaipėda,Dalinis grąžinimas
+ORD-00013,2024.03.15,Ausinės,270.18,0,5,Alytus,atšaukta
+ORD-00029,2024.11.22,Išmanusis laikrodis,231.07,0,2,kaunas,Procesoje
+ORD-00606,10/19/2024,Vaizdo kamera,197.5,0,1,kaunas,?
+ORD-00542,2024-12-22,Klaviatūra,127.06,5,2,kaunas,Dalinis
+ORDER,27-07-2024,Ausinės,€271.24,40,5,Panevezys,-
+ORD-00484,2024.12.18,USB kabelis,23.43,0,4,N/A,grąžinta
+ORD-00498,25-12-2024,Išmanusis telefonas,700.78,0,3,Panevėžys,negrąžinta
+ORD-00377,19-02-2024,Išorinis diskas,113.73,50,1,Marijampolė,Negrąžinta
+ORD-00116,09-03-2024,USB kabelis,15.75,0,5,Utena,NEGRĄŽINTA
+ORD-00657,2024.10.19,Kroviklis,39.0,0,2,ŠIAULIAI,Negrąžinta
+ORD-00458,07/12/2024,Išmanusis telefonas,610.15,0,4,Utena,Dalinis grąžinimas
+ORD-00719,18-02-2024,Planšetė,349.55,0,2,ALYTUS,Atšaukta
+ORD-00099,01/06/2024,USB kabelis,9.32,10,5,Panevėžys,atšaukta
+ORD-00731,28-12-2024,Vaizdo kamera,90.37,0,2,Kaunas,Grąžinta
+ORD-00231,2024/05/31,Išorinis diskas,173.46,-10%,5,kaunas,Grąžinta
+ORD-00532,10/09/2024,Bluetooth kolonėlė,96.23,0,2,kaunas,nezinoma
+ORD-00660,15.09.2024,Nešiojamas kompiuteris,681.4,0,1,PANEVĖŽYS,NEGRĄŽINTA
+ORD-00180,28-11-2024,Maršrutizatorius,145.49,25,5,kaunas,GRĄŽINTA
+ORD-00055,??/??/????,Kroviklis,46.81,25,4,PANEVĖŽYS,atšaukta
+ORD-00570,2024-03-05,Vaizdo kamera,297.43,25,3,KAUNAS,Grąžinimo procese
+ORD-00616,15-04-2024,Išmanusis laikrodis,477.03,0,3,KLAIPĖDA,Grąžinimo procese
+ORD-00004,08/20/2024,Kroviklis,34.92,15,5,PANEVĖŽYS,
+ORD-00110,11.05.2024,Maršrutizatorius,56.48,0,1,ALYTUS,Procesoje
+ORD-00675,07/01/2024,Bluetooth kolonėlė,119.32,0,4,kaunas,grąžinta
+ORD-00321,2024/12/25,Klaviatūra,51.71,30,2,Panevezys,grąžinta
+ORD-00096,14.06.2024,Išorinis diskas,71.62,0,1,vilnius,negrąžinta
+ORD-00429,13-10-2024,Išmanusis telefonas,327.2,25,N/A,Šiauliai,nezinoma
+ORD-00460,06/19/2024,Išorinis diskas,140.73,50,3,KLAIPĖDA,Negrąžinta
+ORD-00701,17.05.2024,Kompiuterio pelė,41.19,0,0,Panevėžys,N/A
+ORD-00476,22.12.2024,Kompiuterio pelė,65.88,0,2,Vilnius,-
+ORD-00074,2024.06.15,Maršrutizatorius,55.94,0,2,Šiauliai,Dalinis grąžinimas
+ORD-00602,28-12-2024,USB kabelis,11.96,0,1, ,GRĄŽINTA
+ORD-00079,2024/12/13,Kompiuterio pelė,36.03,15,2,Siauliai,NEGRĄŽINTA
+ORD-00661,11.06.2024,Nešiojamas kompiuteris,655.89,20,4, ,grąžinta
